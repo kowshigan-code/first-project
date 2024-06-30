@@ -1,0 +1,26 @@
+.main{ width: 100%;
+height: 800px;
+background-color: skyblue;
+background-repeat: no-repeat; background-size: cover;background-image: url(./img/Buy\ Hindu\ Digital\ Art\ Varanasi\ Ghats\ Nights\ Ganga\ Aarti\ Hinduism\ Wall\ Decor\ Hindu\ Wallpaper\ Indian\ Wall\ Art\ Painting\ Hindu\ Digital\ Wallpaper\ Online\ in\ India\ -\ Etsy.jpg);}
+
+.logo{  font-family:"Poppins", sans-serif;
+color: white; padding-left: 20px;
+padding-top: 15px; font-weight: 50px;}
+
+.heading{ color: white;
+font-size: 30px;; font-family: 'Playfair Display', serif;
+margin-left: 200px; position: absolute; top: 300px;}
+
+.heading2{color: white;
+    font-size: 30px;; font-family: 'Playfair Display', serif;
+    margin-left: 200px;position: absolute; top: 360px; }
+
+    .para{ color: white; position: absolute; top: 450px;left: 220px;
+    width: 400px; font-family: "Poppins", sans-serif ;}
+    
+    .butten{ width: 150px; height: 50px;
+    color: white; background-color: black; border-color: gold;
+     position: absolute; top: 600px; left: 220px; padding-left: 50px; padding-bottom: 10px;
+    border-style: groove;}
+
+    .butten:hover{ color: black; background-color: gold;}
